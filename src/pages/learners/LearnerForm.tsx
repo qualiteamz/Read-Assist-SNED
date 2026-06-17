@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import React from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { ArrowLeft, CheckCircle2, Save, ShieldCheck } from "lucide-react";
 import { toast } from "sonner";
